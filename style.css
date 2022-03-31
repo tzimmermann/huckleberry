@@ -11,8 +11,12 @@ body {
 
 /* Add styles here! */
 
+header {
+  padding: 32px 0;
+}
+
 .max-width-wrapper {
-  max-width: 600px;
+  max-width: 630px;
   margin-left: auto;
   margin-right: auto;
 }
